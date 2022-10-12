@@ -1,5 +1,5 @@
 ---
-title: thats a clown question bro >:(
+title: thats a clown question >:(
 date: "2015-05-01T22:12:03.284Z"
 description: "he drink chocolate milk"
 ---
