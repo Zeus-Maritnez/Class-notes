@@ -1,7 +1,8 @@
 ---
-title: Hello World
+title: thats a clown question >:(
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "he drinks chocolate milk and its good
+"
 ---
 
 This is my first post on my new fake blog! How exciting!
